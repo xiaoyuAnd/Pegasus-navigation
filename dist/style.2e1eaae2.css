@@ -22,13 +22,13 @@
 
 body {
     animation: fadeIn 1.5s ease-in;
-    background: url(/back.c299382f.jpg) no-repeat top center;
+    background: url(back.ce09e926.jpg) no-repeat top center;
 }
 
 @media screen and (min-width: 500px) {
     body {
         animation: fadeInW 1.5s ease-in;
-        background: url(/people.dd0977f6.jpg) no-repeat top center;
+        background: url(people.16edb2a1.jpg) no-repeat top center;
     }
 }
 
@@ -219,4 +219,4 @@ body {
     text-overflow: ellipsis;
 }
 
-/*# sourceMappingURL=/style.e308ff8e.css.map */
+/*# sourceMappingURL=style.2e1eaae2.css.map */
