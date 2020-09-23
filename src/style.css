@@ -199,7 +199,7 @@ body {
 
 @media (min-width: 500px) {
     .addButton .iconWrapper {
-        margin: 7px;
+        margin: 7px 7px 7px 0;
     }
 }
 
